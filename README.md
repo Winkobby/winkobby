@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Kobby  
 
-<!--
-**Winkobby/winkobby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer** passionate about building tools that solve real business problems.  
+🚀 Creator of **BizPoint POS** and other business-oriented applications.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages**: C#, SQL, JavaScript  
+- **Frameworks & Tools**: .NET, WinForms, VS Code, GitHub  
+- **Database**: MySQL  
+- **Other**: REST APIs, PDF Export (iTextSharp), Reporting Tools  
+
+---
+
+## 🚀 Featured Projects
+- [**BizPoint POS**](https://github.com/winkobby/BizPoint) – A Point of Sale system for sales, inventory, and reporting.
+- - [**BizPoint POS**](https://github.com/winkobby/shopmaster) – A Point of Sale system for sales, inventory, and reporting.  
+- [**CampusGig**](https://github.com/winkobby/CampusGig) – Connecting students with campus services.  
+- *(More projects coming soon!)*  
+
+---
+
+## 🌱 Currently Learning
+- Advanced database design & optimization  
+- Cloud deployment (Azure, AWS)  
+- Web-based POS solutions  
+
+---
+
+## 📫 Connect With Me
+- GitHub: [@winkobby](https://github.com/winkobby)  
+- LinkedIn: *(add your link if you have one)*  
+- Email: *(your email here)*  
+
+---
+
+⭐️ From [winkobby](https://github.com/winkobby)
