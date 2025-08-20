@@ -15,7 +15,7 @@
 
 ## 🚀 Featured Projects
 - [**BizPoint POS**](https://github.com/winkobby/BizPoint) – A Point of Sale system for sales, inventory, and reporting.
-- - [**BizPoint POS**](https://github.com/winkobby/shopmaster) – A Point of Sale system for sales, inventory, and reporting.  
+- [**BizPoint POS**](https://github.com/winkobby/shopmaster) – A Point of Sale system for sales, inventory, and reporting.  
 - [**CampusGig**](https://github.com/winkobby/CampusGig) – Connecting students with campus services.  
 - *(More projects coming soon!)*  
 
