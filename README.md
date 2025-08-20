@@ -6,7 +6,7 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: C#, SQL, JavaScript  
+- **Languages**: VB, C#, SQL, JavaScript , PHP, LARAVEL 
 - **Frameworks & Tools**: .NET, WinForms, VS Code, GitHub  
 - **Database**: MySQL  
 - **Other**: REST APIs, PDF Export (iTextSharp), Reporting Tools  
